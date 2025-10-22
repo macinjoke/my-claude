@@ -1,0 +1,24 @@
+debug/
+file-history/
+shell-snapshots/
+projects/
+todos/
+session-env/
+local/
+ide/
+statsig/
+plugins/
+
+history.jsonl
+settings.local.json
+
+# OS specific
+.DS_Store
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
+
+!CLAUDE.local.md
