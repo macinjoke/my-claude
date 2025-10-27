@@ -17,3 +17,9 @@
 
 公式ドキュメント: https://docs.claude.com/ja/docs/claude-code/settings
 公式ドキュメント(フック設定など): https://docs.claude.com/ja/docs/claude-code/hooks
+
+## その他参照すべきファイル
+
+- ~/.claude.json
+  - Claudeの設定やログが記載されたファイル
+  - git管理されていないので編集する際は差分を提示して人間の許可を得るべき
