@@ -23,6 +23,7 @@
       }
     ]
   },
+  "alwaysThinkingEnabled": true,
   "feedbackSurveyState": {
     "lastShownTime": 1753950233965
   }
