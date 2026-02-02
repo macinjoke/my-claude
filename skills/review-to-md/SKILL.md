@@ -1,6 +1,7 @@
 ---
 name: review-to-md
 description: コードレビューをする
+disable-model-invocation: true 
 ---
 
 ## Description

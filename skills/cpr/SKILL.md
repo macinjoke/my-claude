@@ -1,6 +1,7 @@
 ---
 name: cpr
 description: 現在のブランチを push して GitHub PR を作成する
+disable-model-invocation: true 
 ---
 
 ## Description
