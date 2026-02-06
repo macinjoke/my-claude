@@ -25,3 +25,5 @@ stats-cache.json
 *.log
 
 !CLAUDE.local.md
+
+/tasks/
